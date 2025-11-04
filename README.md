@@ -1,6 +1,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/hunar4321/life_code)
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
+if 🗿 moi oublie to wright somwere -b to repo nome particle-life, do it for me Rlease (Please) like dis (this): particle-life-b! 
+
+D'on©Key!
+
 # Particle Life Simulation
 A simple program to simulate primitive Artificial Life using simple rules of attraction or repulsion among atom-like particles, producing complex self-organzing life-like patterns. Excluding the GUI elements, the code is less than a page. The video tutorial and walkthrough are available below.
 
@@ -11,8 +15,8 @@ https://youtu.be/0Kx4Y9TVMGg
 Online Demo (JavaScript version):
 -------------
 Click here for a live demo (JavaScript): 
-  - 2d - https://hunar4321.github.io/particle-life/particle_life.html
-  - 3d - https://hunar4321.github.io/particle-life/particle_life_3d.html
+  - 2d - https://uoxyc.github.io/particle-life-b/particle_life.html
+  - 3d - https://uoxyc.github.io/particle-life-b/particle_life_3d.html
   
 Interface (C++ version)
 --------------------------------------------------------
